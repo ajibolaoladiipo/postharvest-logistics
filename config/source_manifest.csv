@@ -1,0 +1,6 @@
+filename,required_by_script,redistributable,checksum
+sectaphl1_harvestw4.dta,01_build_wave4_postharvest_logistics_panel.R,no,
+sectaphl2_harvestw4.dta,01_build_wave4_postharvest_logistics_panel.R,no,
+secta_harvestw4.dta,01_build_wave4_postharvest_logistics_panel.R,no,
+NGA_HouseholdGeovars_Y4.dta,01_build_wave4_postharvest_logistics_panel.R,no,
+sectc2_harvestw4.dta,01_build_wave4_postharvest_logistics_panel.R,no,

@@ -1,0 +1,16 @@
+Package: paper1postharvestlogistics
+Type: Project
+Title: Reproducibility Code for Nigerian Post-Harvest Labour Analysis
+Version: 0.1.0
+Authors@R: person("Ajibola", "Oladiipo", role = c("aut", "cre"))
+Description: Code-only replication package for a survey-weighted descriptive analysis
+    of reported post-harvest labour organisation and market accessibility in Nigeria.
+License: file LICENSE_CHOICE_REQUIRED.md
+Encoding: UTF-8
+Depends: R (>= 4.3)
+Imports:
+    dplyr,
+    haven,
+    readr,
+    survey,
+    yaml

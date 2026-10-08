@@ -1,0 +1,24 @@
+# R session and IDE state
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Source data and every derivative remain local
+data/raw/*
+!data/raw/.gitkeep
+data/derived/*
+!data/derived/.gitkeep
+outputs/*
+!outputs/.gitkeep
+
+# Never commit restricted microdata or serialized objects
+*.dta
+*.rds
+*.RData
+*.Rhistory
+.DS_Store
+
+# Local environment variables and credentials
+.Renviron
+.env
