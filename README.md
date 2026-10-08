@@ -52,7 +52,7 @@ data/raw/     Empty, ignored local location for authorised source data if desire
 data/derived/ Ignored local analytical panel and model objects
 scripts/      Source-to-output R workflow
 outputs/      Ignored local tables, figures, and diagnostics
-docs/         Data and reproducibility documentation
+*.md          Data-access, run, requirement, and reproducibility documentation
 ```
 
 ## Reproducibility and privacy
@@ -61,4 +61,4 @@ The package is reproducible only for users who independently obtain authorised a
 
 ## Status
 
-This is a code-only replication package. It does not represent a manuscript submission package and does not state that any journal has accepted or reviewed the analysis.
+This is a code-only replication package. It does not represent a manuscript submission package and does not state that any journal has accepted or reviewed the analysis. The code is released under the MIT License; the source data remain subject to their provider's terms.
