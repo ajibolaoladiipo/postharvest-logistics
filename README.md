@@ -1,4 +1,4 @@
-# Paper 1 replication code
+# Replication code
 
 ## The Logistics of Post-Harvest Work
 
